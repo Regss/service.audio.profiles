@@ -13,5 +13,8 @@
         <description lang="en">Service for Audio Profiles script</description>
         <description lang="pl">Usługa dla skryptu Audio Profiles</description>
         <platform>all</platform>
+        <forum>http://forum.kodi.tv/showthread.php?tid=200081</forum>
+        <source>https://github.com/Regss/service.audio.profiles</source>
+        <email>regss84@gmail.com</email>
     </extension>
 </addon>
