@@ -10,8 +10,8 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Service for Audio Profiles script</summary>
         <summary lang="pl">Usługa dla skryptu Audio Profiles</summary>
-        <description lang="en">Service for Audio Profiles script</description>
-        <description lang="pl">Usługa dla skryptu Audio Profiles</description>
+        <description lang="en">Shows menu to select profile when starts playing video.</description>
+        <description lang="pl">Pokazuje menu wyboru profilu audio kiedy rozpocznie się odtwarzanie wideo</description>
         <platform>all</platform>
         <forum>http://forum.kodi.tv/showthread.php?tid=200081</forum>
         <source>https://github.com/Regss/service.audio.profiles</source>
