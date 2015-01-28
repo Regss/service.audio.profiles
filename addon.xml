@@ -6,7 +6,7 @@
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
-    <extension point="xbmc.service" library="default.py" start="[login|startup]" />
+    <extension point="xbmc.service" library="default.py" start="login" />
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Service for Audio Profiles script</summary>
         <summary lang="pl">Usługa dla skryptu Audio Profiles</summary>
